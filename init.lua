@@ -115,6 +115,9 @@ oil.setup({
   keymaps = {
     ["q"] = "actions.close",
   },
+  float = {
+    border = "rounded",
+  },
 })
 
 -- Treesitter
