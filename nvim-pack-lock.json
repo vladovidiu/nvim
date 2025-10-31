@@ -1,0 +1,11 @@
+{
+  "plugins": {
+    "nvim-treesitter": {
+      "version": "'master'"
+    },
+    "oil.nvim": {
+      "rev": "7e1cd77"
+    },
+    "rose-pine": []
+  }
+}
